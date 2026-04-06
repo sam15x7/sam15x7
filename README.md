@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently working on my Quant Skills <br>I am currently studying pcmc at dps<br>
+ currently working on my Quant Skills <br>studying pcmc at dps rpk<br>
 
 
 ## 🌐 Socials:
