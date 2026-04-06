@@ -30,7 +30,7 @@
 
 ### /// ＴＥＬＥＭＥＴＲＹ
 
-*(Note: If the stats break again, remember to swap these URLs with your private Vercel instance)*
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sam15x7&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&ring_color=8A2BE2" alt="Stats" />
